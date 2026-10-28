@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raniel de Carvalho, Information Technology student;
-- 👀 I’m interested in full-stack development, but with focus on the web;
-- 🌱 I’m currently learning javascript and web tools;
+- 👋 Hi, I’m Raniel de Carvalho, Systems Analysis & Development Graduate;
+- 👀 I’m interested in full-stack development;
+- 🌱 I’m currently learning web security;
 - 💞️ I’m looking to collaborate on my future.
 - 📫 How to reach me: ranielcarvalho15@gmail.com
 
